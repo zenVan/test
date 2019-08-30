@@ -1,2 +1,2 @@
 #!/bin/bash
-#it is a test file
+echo "it is a test file"
