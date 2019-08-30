@@ -1,3 +1,4 @@
 #!/bin/bash
 echo "it is a test file"
+echo "hello"
 #for use decription
